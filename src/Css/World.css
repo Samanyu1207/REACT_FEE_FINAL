@@ -1,0 +1,87 @@
+
+.box10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+  }
+  
+  .box10 h1 {
+    font-size: 68px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Bebas Neue";
+    text-align: right;
+  }
+  
+  .box10 p {
+    width: 919px;
+    height: 151px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 27px;
+    color: #5d5c5c;
+    font-weight: 500;
+    font-family: "Lato";
+    text-align: center;
+  }
+  
+  .man4 {
+    width: 568px;
+    height: 444px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  .man4 img {
+    border-radius: 80px;
+  }
+  
+  .man4 p {
+    width: 473px;
+    height: 231px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 27px;
+    color: #212121;
+    font-weight: 500;
+    font-style: italic;
+    font-family: "Lato";
+    text-align: center;
+  }
+  
+  .man4 h1 {
+    font-size: 23px;
+    letter-spacing: 0px;
+    line-height: 33px;
+    color: #212121;
+    font-family: "Bebas";
+  }
+  
+  .man4 h2 {
+    font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 29px;
+    color: #212121;
+    font-weight: 400;
+    font-family: "Bebas Neue";
+  }
+  
+  .box10-content {
+    display: flex;
+    justify-content: space-around;
+    margin-left: -10px;
+    align-items: end;
+    width: 80%;
+  }
+  
+  .man4-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
